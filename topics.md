@@ -256,6 +256,7 @@
 
 ## others 
 
+- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
@@ -287,7 +288,6 @@
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [King-Ulee/Crypto-Mining](https://github.com/King-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
-- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
 - [King-Ulee/Daily-Check-In-Anime-Game](https://github.com/King-Ulee/Daily-Check-In-Anime-Game) - ✅ This script will automatically check in every day in HoYoLab, and works with Genshin Impact, Honkai Star Rail and Honkai Impact 3rd too
 - [King-Ulee/holobyte.github.io](https://github.com/King-Ulee/holobyte.github.io) - 🦖Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 - [King-Ulee/WhatsApp-OpenAI](https://github.com/King-Ulee/WhatsApp-OpenAI) - 🤖 The program seems to be a WhatsApp bot written using the @adiwajshing/baileys library. It sets up a client, handles incoming messages, and provides functions for sending messages and managing contac
