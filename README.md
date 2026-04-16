@@ -49,6 +49,7 @@
 
 ## HTML 
 
+- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
 - [King-Ulee/blowfish](https://github.com/King-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [King-Ulee/King-Genshin-StarRail-Stats](https://github.com/King-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
@@ -57,7 +58,6 @@
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [King-Ulee/Crypto-Mining](https://github.com/King-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from Hoyoverse games. Also Anime Game Stats can do auto check-in and auto redeem codes.
-- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website, which is a one-page HTML created with CSS and Jquery. This website is designed to showcase my skills, experience, and projects.
 
 ## Hack 
 
