@@ -49,7 +49,6 @@
 
 ## HTML 
 
-- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
 - [King-Ulee/blowfish](https://github.com/King-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [King-Ulee/King-Genshin-StarRail-Stats](https://github.com/King-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
@@ -98,6 +97,7 @@
 
 ## Others 
 
+- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
 - [King-Ulee/github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
