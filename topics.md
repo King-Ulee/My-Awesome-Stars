@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [android](#android)
 - [api](#api)
 - [arduino](#arduino)
@@ -59,6 +60,7 @@
 - [statistics](#statistics)
 - [symfony](#symfony)
 - [termux](#termux)
+- [tui](#tui)
 - [typescript](#typescript)
 - [web](#web)
 - [webapp](#webapp)
@@ -69,6 +71,10 @@
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
+
+## ai-agents 
+
+- [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 
 ## android 
 
@@ -108,6 +114,7 @@
 
 ## cli 
 
+- [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
 ## compiler 
@@ -172,6 +179,7 @@
 
 ## golang 
 
+- [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## good-first-issue 
@@ -347,6 +355,10 @@
 ## termux 
 
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
+
+## tui 
+
+- [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 
 ## typescript 
 
