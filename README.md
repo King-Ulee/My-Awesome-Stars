@@ -50,7 +50,7 @@
 
 ## HTML 
 
-- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
+- [King-Ulee/kingulee.com](https://github.com/King-Ulee/kingulee.com) - :shipit: My personal website and blog.
 - [King-Ulee/blowfish](https://github.com/King-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [King-Ulee/King-Genshin-StarRail-Stats](https://github.com/King-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
