@@ -264,7 +264,7 @@
 
 ## others 
 
-- [King-Ulee/king-ulee.github.io](https://github.com/King-Ulee/king-ulee.github.io) - ⚛️  This is the repository for my personal portfolio website.
+- [King-Ulee/kingulee.com](https://github.com/King-Ulee/kingulee.com) - :shipit: My personal website and blog.
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
