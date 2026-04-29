@@ -291,7 +291,7 @@
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
 - [King-Ulee/My-Awesome-Stars](https://github.com/King-Ulee/My-Awesome-Stars) - 🌟 My Awesome List. List of repositories starred by Julius-Ulee.
 - [King-Ulee/School-Programs](https://github.com/King-Ulee/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
-- [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
+- [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for King-Ulee, powered by Github
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [Julius-Ulee-Company/Crypto-Mining](https://github.com/Julius-Ulee-Company/Crypto-Mining) - Cyaa :V
 - [King-Ulee/Crypto-Mining](https://github.com/King-Ulee/Crypto-Mining) - 🪙 This technology is good enough for those of you who want to run a cunning plan, if someone visits your website then the script will automatically run mining.
