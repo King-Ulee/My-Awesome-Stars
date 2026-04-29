@@ -95,7 +95,7 @@
 
 ## Markdown 
 
-- [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for JuliusUlee, powered by Github
+- [King-Ulee/Status-Page-Advanced](https://github.com/King-Ulee/Status-Page-Advanced) - 📈 Uptime monitor and status page for King-Ulee, powered by Github
 
 ## Others 
 
