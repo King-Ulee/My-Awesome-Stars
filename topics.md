@@ -264,6 +264,7 @@
 
 ## others 
 
+- [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [King-Ulee/kingulee.com](https://github.com/King-Ulee/kingulee.com) - :shipit: My personal website and blog.
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
@@ -283,7 +284,6 @@
 - [King-Ulee/discord-always-online](https://github.com/King-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
 - [King-Ulee/Paw-Paw](https://github.com/King-Ulee/Paw-Paw) - 😺 Paw-Paw is an e-commerce platform created with Codeigniter. With the increasing prevalence of Paw-Paw pet shops, there is an initiative to develop a website to reach a wider market.
-- [King-Ulee/Announcements-Anime](https://github.com/King-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [King-Ulee/Daily-Weather-Report](https://github.com/King-Ulee/Daily-Weather-Report) - 🌡️ This Bash script retrieves weather information from the OpenWeatherMap API for your city, changes the temperature from Kelvin to Celsius, and updates the contents of the README.md file in the Git r
 - [AnandChowdhary/life](https://github.com/AnandChowdhary/life) - 🧬 All life data — location, health, work, play, and more — open sourced
 - [King-Ulee/github-profile-views-counter](https://github.com/King-Ulee/github-profile-views-counter) - 🚀 Set up this GitHub profile views counter for your profile that does not require any services to record profile views
