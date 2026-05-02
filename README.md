@@ -132,7 +132,7 @@
 
 ## Rust 
 
-- [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain monorepo
+- [worldcoin/world-chain](https://github.com/worldcoin/world-chain) - World Chain Monorepo
 - [worldcoin/orb-software](https://github.com/worldcoin/orb-software) - Software for the orb
 
 ## SCSS 
