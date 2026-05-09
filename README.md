@@ -50,7 +50,7 @@
 
 ## HTML 
 
-- [King-Ulee/kingulee.com](https://github.com/King-Ulee/kingulee.com) - :shipit: My personal website and blog.
+- [King-Ulee/azriel.id](https://github.com/King-Ulee/azriel.id) - :shipit: My personal website and blog.
 - [King-Ulee/blowfish](https://github.com/King-Ulee/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [King-Ulee/King-Genshin-StarRail-Stats](https://github.com/King-Ulee/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
@@ -156,7 +156,7 @@
 
 - [ibra-kdbra/Generate_infinite](https://github.com/ibra-kdbra/Generate_infinite) - 
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contribut
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
+- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [ollama/ollama-js](https://github.com/ollama/ollama-js) - Ollama JavaScript library
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
