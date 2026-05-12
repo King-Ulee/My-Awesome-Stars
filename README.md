@@ -70,6 +70,7 @@
 
 ## JavaScript 
 
+- [King-Ulee/Announcements-Anime](https://github.com/King-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
 - [King-Ulee/discord-always-online](https://github.com/King-Ulee/discord-always-online) - 🟢 Make it your discord account always online 24/7.
